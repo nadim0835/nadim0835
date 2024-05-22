@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available at [https://nadimxyz.netlify.app/](https://nadimxyz.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://protfolio-barine-zone.vercel.app/](https://protfolio-barine-zone.vercel.app/)
 
 - 📫 How to reach me **nadim0835@gmail.com**
 
